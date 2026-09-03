@@ -413,13 +413,6 @@ Run all the cells to perform the complete analysis.
 
 ---
 
-# 👩‍💻 Author
-
-**Yazhini**
-
-Aspiring Data Analyst / Data Scientist
-
----
 
 # ⭐ Conclusion
 
